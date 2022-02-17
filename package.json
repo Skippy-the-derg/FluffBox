@@ -1,8 +1,8 @@
 {
-	"name": "BeepBox",
-	"version": "4.0.1",
-	"description": "BeepBox is an online tool for sketching and sharing instrumental music.",
-	"author": "John Nesky",
+	"name": "FluffBox",
+	"version": "0.1",
+	"description": "FluffBox is a modded version of BeepBox",
+	"author": "FluffyApples",
 	"license": "MIT",
 	"homepage": "https://www.beepbox.co",
 	"type": "module",
